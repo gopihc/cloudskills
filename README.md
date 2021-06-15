@@ -3,6 +3,8 @@
 ------------------------------------------------------------------------------------------------
 Download RAR file and extract to Folder.
 
+RAR File Contains Selenium web driver, Chrome addon and python script.
+
 INSTALL PIP MODULES.
 
 PIP INSTALL SELENIUM
