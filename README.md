@@ -3,6 +3,11 @@
 ------------------------------------------------------------------------------------------------
 Download RAR file and extract to Folder.
 
+INSTALL PIP MODULES.
+
+PIP INSTALL SELENIUM
+
+
 Edit Download.py file and Change the login credentials .
 useremail=""
 passwordl=""
